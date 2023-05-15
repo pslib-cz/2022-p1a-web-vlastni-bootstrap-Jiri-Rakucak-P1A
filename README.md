@@ -64,3 +64,5 @@ Jednou ze zajímavých možností dnešní doby je vygenerování obsahu pomocí
  * [DALL-E playground](https://playgroundai.com/)
      * [Craiyon](https://www.craiyon.com/)
  * [BlueWillow](https://www.bluewillow.ai/) - přes Discord - neomezené demo
+
+ https://github.com/Jiri-Rakucak-P1A/Vlastni-web-bootsrap.git
